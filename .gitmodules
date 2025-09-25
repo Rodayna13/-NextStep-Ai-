@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Rodayna13/-NextStep-Ai-Frontend-.git
+[submodule "node-services"]
+	path = node-services
+	url = https://github.com/Rodayna13/NextStep-AI-Node.js-Services-.git
+[submodule "dotnet-services"]
+	path = dotnet-services
+	url = https://github.com/Rodayna13/NextStep-AI-.NET-Services-.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Rodayna13/NextStep-AI-Gateway-.git
